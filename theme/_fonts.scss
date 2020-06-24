@@ -1,0 +1,16 @@
+// theme/_fonts.scss
+
+@font-face {
+  font-family: "Colfax-Bold";
+  src: url("/public/fonts/Colfax-Bold.otf") format("otf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+$logo-font: "Share Tech Mono", monospace;
+$header-font: "Raleway", sans-serif;
+$core-font: "Merriweather Sans", sans-serif;
+$title-font: "Colfax-Bold";
+
+// for google font imports:
+// @import url("https://fonts.googleapis.com/css?family=Raleway:800|Merriweather+Sans|Share+Tech+Mono");
